@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkreact_complete_guide=self.webpackChunkreact_complete_guide||[]).push([[922],{922:function(e,a,c){c.r(a);var t=c(184);a.default=function(){return(0,t.jsx)("div",{className:"centered",children:(0,t.jsx)("h2",{children:"Halaman tidak ditemukan!"})})}}}]);
-//# sourceMappingURL=922.1018b03a.chunk.js.map
